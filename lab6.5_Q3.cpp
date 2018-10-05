@@ -14,7 +14,7 @@ using namespace std;
 //main function
 int main()
 {
-    //giving variables
+    //giving variables N is perfect square  and M is sum
     long N, M;
     cout << "List of such numbers : " << endl; 
     //using 'if and 'for' conditions
