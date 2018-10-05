@@ -1,4 +1,5 @@
-/*Question 1 (Loops): Apples cost Re1 each, mangoes cost Rs3 each, and 1 banana is only Rs0.50. You bought 100 fruits for Rs100, How many of each fruit did you buy? Display all variations of answer. 
+/*Question 1 (Loops): Apples cost Re1 each, mangoes cost Rs3 each, and 1 banana is only Rs0.50. You bought 100 fruits
+for Rs100, How many of each fruit did you buy? Display all variations of answer. 
 */ 
 //library
 #include <iostream>
